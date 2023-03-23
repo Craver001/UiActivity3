@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UiActivity3</string>
+    <string name="showpass">Show Password</string>
+    <string name="remeberme">Remember me</string>
 </resources>
